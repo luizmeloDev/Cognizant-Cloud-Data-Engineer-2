@@ -1,11 +1,11 @@
-Criar um novo repositorio no github
+gitCriar um novo repositorio no github
 
 git clone (link do repositorio) --- clona seu repositorio 
 do github no desktop
 
 git status
 
-git add .
+git add . ou git add -a
 
 git commit -m "mensagem"
 
