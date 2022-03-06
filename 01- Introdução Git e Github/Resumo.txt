@@ -1,0 +1,13 @@
+Criar um novo repositorio no github
+
+git clone (link do repositorio) --- clona seu repositorio 
+do github no desktop
+
+git status
+
+git add .
+
+git commit -m "mensagem"
+
+git push origin main
+
