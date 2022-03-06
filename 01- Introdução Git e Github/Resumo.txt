@@ -5,7 +5,7 @@ do github no desktop
 
 git status
 
-git add . ou git add -a
+git add . ou git add -A
 
 git commit -m "mensagem"
 
